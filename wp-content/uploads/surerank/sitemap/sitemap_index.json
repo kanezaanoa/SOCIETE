@@ -1,0 +1,18 @@
+[
+    {
+        "link": "http:\/\/localhost\/wordpress-6.8.2\/wordpress\/post-type-elementor_library-sitemap-1.xml",
+        "updated": "2026-02-23T12:01:32+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress-6.8.2\/wordpress\/post-type-page-sitemap-1.xml",
+        "updated": "2026-02-23T12:01:32+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress-6.8.2\/wordpress\/post-type-post-sitemap-1.xml",
+        "updated": "2026-02-23T12:01:32+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress-6.8.2\/wordpress\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2026-02-23T12:01:33+00:00"
+    }
+]

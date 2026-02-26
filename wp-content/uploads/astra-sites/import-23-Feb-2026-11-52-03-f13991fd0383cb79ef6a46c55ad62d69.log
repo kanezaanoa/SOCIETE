@@ -1,0 +1,6 @@
+
+[12:08:30 UTC] [INFO] Completed processing Elementor widgets | Context: {"processed_count":7}
+[12:08:30 UTC] [SUCCESS] Updated Elementor data successfully | Context: {"post_id":1463}
+[12:08:30 UTC] [INFO] Cleared Elementor cache | Context: {"post_id":1463}
+[12:08:30 UTC] [SUCCESS] Completed processing Elementor post | Context: {"post_id":1463}
+[12:08:30 UTC] [SUCCESS] Elementor batch processing completed successfully | Context: {"posts_processed":6}
